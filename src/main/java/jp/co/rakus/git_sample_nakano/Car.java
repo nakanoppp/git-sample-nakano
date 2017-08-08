@@ -7,13 +7,14 @@ package jp.co.rakus.git_sample_nakano;
  */
 public class Car {
 	/** スピード */
-	private int speed;
+	private int speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed;
 
-	public int getSpeed() {
-		return speed;
+	public int getSpeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed() {
+		return speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed;
 	}
 
-	public void setSpeed(int speed) {
-		this.speed = speed;
+	public void setSpeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed(int speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed) {
+		this.speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed = speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed;
 	}
+
 }
