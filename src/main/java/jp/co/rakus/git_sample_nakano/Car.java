@@ -16,5 +16,8 @@ public class Car {
 	public void setSpeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed(int speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed) {
 		this.speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed = speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed;
 	}
+	public void HELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO(){
+		this.speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed = speeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed + 5;
+	}
 
 }
